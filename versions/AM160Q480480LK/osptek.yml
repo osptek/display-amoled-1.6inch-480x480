@@ -1,0 +1,10 @@
+id: AM160Q480480LK
+category: displays
+size: "1.6"
+panel: amoled
+resolution: 480x480
+interface: [qspi]
+driver: CH13613
+touch: CHSC6417
+outline: 41.52 x 41.54 mm
+active_area: 39.12 x 39.12 mm

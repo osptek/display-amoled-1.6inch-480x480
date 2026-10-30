@@ -1,0 +1,10 @@
+id: AM160Q480480LK4
+category: displays
+size: "1.6"
+panel: amoled
+resolution: 480x480
+interface: [mipi]
+driver: ST7802
+touch: CST9220
+outline: 55.00 x 55.00 mm
+active_area: 39.12 x 39.12 mm
